@@ -20,7 +20,9 @@ _(a definir: quantos parágrafos, se há intertítulos, tamanho típico)_
 - Instagram: `legenda_instagram` recebe o primeiro parágrafo da matéria (pode ser resumido para caber em uma legenda).
 - Facebook: `facebook_texto` recebe uma introdução curta que leva o leitor à página da matéria, sem copiar parágrafos.
 - `instagram_storie: true` em toda matéria.
-- Foto para o feed do Instagram em proporção 4:5 (ex.: 1080x1350). Para o story, o ideal é 9:16 (1080x1920).
+- Foto do portal em paisagem 16:9, 1200x675 (padrão do site, como nas matérias antigas, 1000x562). Não enviar foto em retrato para o portal.
+- Imagem padrão do portal em 16:9: `../assets/fallback-sem-foto-16x9.jpg`.
+- Foto para o Instagram: o plugin faz o próprio recorte; manter o original com boa resolução.
 - Foto sempre real (pessoas, obra, local, evento). Nunca card, banner ou arte genérica de capa de blog.
 - Ordem de prioridade da imagem: (1) foto da própria matéria (obra, política, saúde, pessoas, local, evento), sempre a primeira a ser buscada; (2) somente se não houver nenhuma foto real, a imagem padrão `assets/fallback-sem-foto-4x5.jpg` (logo do portal sobre fundo azul), com crédito "Imagem ilustrativa". A imagem padrão nunca substitui uma foto disponível.
 - WhatsApp e grupos de WhatsApp: habilitados. Em toda matéria, `redes.whatsapp: true`.
