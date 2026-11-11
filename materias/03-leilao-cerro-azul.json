@@ -1,0 +1,26 @@
+{
+  "chapeu": "Leilão público",
+  "categoria": "Cidades",
+  "destaque": "Nenhum destaque",
+  "fonte": "Prefeitura de Cerro Azul",
+  "link_original": "https://www.instagram.com/prefeituradecerroazul/",
+  "titulo": "Cerro Azul realiza leilão público on-line de veículos e máquinas em 30 de novembro",
+  "subtitulo": "Visitação dos bens pode ser agendada até 27 de novembro; cadastro é feito com o leiloeiro",
+  "texto": [
+    "A Prefeitura de Cerro Azul realizará, no dia 30 de novembro, às 10h, um leilão público municipal de veículos, máquinas e equipamentos. A disputa será exclusivamente on-line, pelo site do leiloeiro responsável.",
+    "Os bens poderão ser visitados até o dia 27 de novembro, mediante agendamento prévio. Quem quiser participar deve fazer o cadastro pelo site do leiloeiro antes da data do leilão.",
+    "## Edital e informações",
+    "O edital completo está disponível no site do leiloeiro e no Portal de Licitações do Município. O documento que rege a disputa é o Edital do Leilão Eletrônico nº 001/2026.",
+    "O Município figura como comitente do leilão, e a peça de divulgação identifica a AL Leilões como leiloeiro oficial. Para mais informações, a prefeitura orienta que o interessado entre em contato diretamente com o leiloeiro responsável.",
+    "Com informações da Prefeitura de Cerro Azul."
+  ],
+  "foto": { "arquivo": "../assets/fallback-sem-foto-4x5.jpg", "credito": "Imagem ilustrativa" },
+  "redes": {
+    "whatsapp": false,
+    "instagram_post": true,
+    "legenda_instagram": "A Prefeitura de Cerro Azul realizará leilão público exclusivamente on-line em 30 de novembro, às 10h, com veículos, máquinas e equipamentos. Leia a matéria completa no portal.",
+    "instagram_storie": true,
+    "facebook": true,
+    "facebook_texto": "Vai participar do leilão público de Cerro Azul? Veja a data, o prazo de visitação e onde encontrar o edital antes de se cadastrar. Leia a matéria completa no portal."
+  }
+}
