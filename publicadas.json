@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "titulo": "Rio Branco do Sul terá programação gratuita de Natal, com cantatas e Casa do Papai Noel",
+    "link_original": "https://riobrancodosul.com.br/rio-branco-do-sul-tera-programacao-gratuita-de-natal-com-cantatas-e-casa-do-papai-noel/",
+    "fonte": "Bem Paraná",
+    "dia": "2026-11-11",
+    "data": "2026-11-11T14:57:13.130Z",
+    "status": "publicada",
+    "url_site": "https://valedoribeira.net.br/noticia/2477/rio-branco-do-sul-tera-programacao-gratuita-de-natal-com-cantatas-e-casa-do-papai-noel",
+    "agendamento": {
+      "data": "2026-11-11",
+      "hora": 11,
+      "minuto": 56
+    }
+  },
+  {
+    "titulo": "Sanepar repara tubulação e retoma abastecimento após falha na ETA Passaúna",
+    "link_original": "https://riobrancodosul.com.br/equipes-da-sanepar-trabalham-durante-a-madrugada-para-retomar-abastecimento-na-rmc/",
+    "fonte": "Sanepar",
+    "dia": "2026-11-11",
+    "data": "2026-11-11T14:57:33.454Z",
+    "status": "publicada",
+    "url_site": "https://valedoribeira.net.br/noticia/2478/sanepar-repara-tubulacao-e-retoma-abastecimento-apos-falha-na-eta-passauna",
+    "agendamento": {
+      "data": "2026-11-11",
+      "hora": 11,
+      "minuto": 57
+    }
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "chapeu": "Abastecimento de água",
+  "categoria": "Cidades",
+  "destaque": "Nenhum destaque",
+  "fonte": "Sanepar",
+  "link_original": "https://riobrancodosul.com.br/equipes-da-sanepar-trabalham-durante-a-madrugada-para-retomar-abastecimento-na-rmc/",
+  "titulo": "Sanepar repara tubulação e retoma abastecimento após falha na ETA Passaúna",
+  "subtitulo": "Estação que atende Curitiba, Araucária e Almirante Tamandaré segue parada; caminhões-pipa atendem escolas e hospitais",
+  "texto": [
+    "Desde a noite de domingo (8), equipes da Sanepar buscam consertar um cano de quase um metro de largura. Ele fica a uns quatro metros abaixo do chão e faz a ligação entre a barragem Passaúna e a estação de tratamento.",
+    "Segundo a companhia, a quebra foi provocada por oscilações de pressão, que vieram das sucessivas quedas de energia causadas pelo temporal.",
+    "## Impacto no abastecimento",
+    "Por causa disso, a ETA Passaúna está temporariamente desligada. Ela abastece bairros de Curitiba e de Araucária, além de áreas próximas a Campo Largo, Campo Magro e Almirante Tamandaré.",
+    "Para amenizar o problema, a empresa levou caminhões-pipa até locais prioritários, entre eles escolas, hospitais e postos de saúde.",
+    "## Retomada e orientações",
+    "A previsão é que a água volte de forma gradual a partir de terça-feira (10). Quem quiser conferir a situação do próprio endereço pode usar o mapa interativo no site da Sanepar.",
+    "A empresa pede economia, com prioridade para o consumo de alimentação e higiene pessoal. O alerta vale sobretudo para quem não tem caixa-d'água em casa.",
+    "Com informações da Sanepar, via Rio Branco do Sul (blog local)."
+  ],
+  "foto": {
+    "arquivo": "02-sanepar-passauna.jpg",
+    "credito": "Foto: Reprodução"
+  },
+  "redes": {
+    "whatsapp": false,
+    "instagram_post": true,
+    "legenda_instagram": "A ETA Passaúna está fora de operação após a rompimento de uma tubulação. A Sanepar trabalha no reparo, e o abastecimento volta aos poucos a partir de terça-feira (10). Veja a matéria completa no portal.",
+    "instagram_storie": false,
+    "facebook": true,
+    "facebook_texto": "Falta de água em Curitiba, Araucária e região? Entenda o que causou o problema na ETA Passaúna, quando o abastecimento volta e como consultar o seu endereço. Leia a matéria completa no portal."
+  },
+  "agendamento": "agora"
+}
