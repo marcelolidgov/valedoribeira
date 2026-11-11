@@ -1,0 +1,10 @@
+{
+  "_comentario": "Contas do Instagram varridas via Business Discovery (API oficial). 'ig_business_id' é a conta profissional do app (id, não é segredo). 'usuario' é o @ sem arroba. 'nome' é o órgão que aparece em 'Com informações de'. O token NÃO fica aqui: fica como segredo de rede do ambiente.",
+  "contas": [
+    {
+      "usuario": "prefeituradecerroazul",
+      "nome": "Prefeitura de Cerro Azul"
+    }
+  ],
+  "ig_business_id": "17841447036866566"
+}
