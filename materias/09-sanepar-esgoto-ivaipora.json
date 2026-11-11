@@ -1,0 +1,32 @@
+{
+  "chapeu": "Saneamento",
+  "categoria": "Cidades",
+  "destaque": "Nenhum destaque",
+  "fonte": "Agência Estadual de Notícias",
+  "link_original": "https://www.parana.pr.gov.br/aen/Noticia/Sanepar-investe-R-13-milhoes-para-levar-rede-de-esgoto-70-da-populacao-de-Ivaipora",
+  "titulo": "Sanepar investe R$ 13 milhões para levar rede de esgoto a 70% da população de Ivaiporã",
+  "subtitulo": "Obra de 44 mil metros de tubulação deve ser concluída até o fim de 2027 e gerar cerca de 300 empregos",
+  "texto": [
+    "Em Ivaiporã, no Vale do Ivaí, a Sanepar tocará uma ampliação da rede de esgoto com aporte acima de R$ 13 milhões. A expectativa é de alcançar cerca de 3 mil famílias.",
+    "Depois da conclusão, a parcela da população urbana com coleta de esgoto deve saltar de 57% para 70%. O prazo previsto vai até o final de 2027.",
+    "## O que será construído",
+    "No pacote entram 44 mil metros de tubulação e uma elevatória nova. A companhia estima cerca de 300 vagas de trabalho, entre diretas e indiretas.",
+    "As novas redes vão atender as vilas Ipiranga, Santa Terezinha, Nova Porã e Monte Castelo, além de bairros como Luiz XV e Botânico. A nova elevatória também viabiliza o Jardim Casa Grande.",
+    "## Método de execução",
+    "Com informações da Agência Estadual de Notícias.",
+    "Com informações da Agência Estadual de Notícias."
+  ],
+  "foto": {
+    "arquivo": "09-sanepar-esgoto-ivaipora.jpg",
+    "credito": "Foto: Reprodução"
+  },
+  "redes": {
+    "whatsapp": true,
+    "instagram_post": true,
+    "legenda_instagram": "A Sanepar investe mais de R$ 13 milhões para ampliar o esgoto de Ivaiporã. A cobertura deve passar de 57% para 70% da população. Leia a matéria completa no portal.",
+    "instagram_storie": true,
+    "facebook": true,
+    "facebook_texto": "Ivaiporã vai ganhar mais 44 mil metros de rede de esgoto, com obras previstas até o fim de 2027. Veja os bairros atendidos no portal."
+  },
+  "agendamento": "agora"
+}
