@@ -1,0 +1,22 @@
+{
+  "nome": "Agente autônomo de notícias",
+  "modo": "ensaio",
+  "portal": {
+    "nome": "",
+    "site": "",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 NoticiasAgente/1.0",
+    "env_email": "PORTAL_EMAIL",
+    "env_senha": "PORTAL_SENHA",
+    "horarios": [8, 12, 18],
+    "plugins_id": {}
+  },
+  "limite_diario": 3,
+  "max_candidatos": 20,
+  "dias_sem_repetir": 7,
+  "min_palavras": 250,
+  "max_palavras": 900,
+  "max_sobreposicao": 0.1,
+  "categorias": [],
+  "destaques": ["Nenhum destaque", "Slide", "Manchete", "Seção"],
+  "termos_bloqueados": ["criminoso", "bandido", "corrupto", "ladrão", "golpista", "estuprador", "assassino"]
+}
