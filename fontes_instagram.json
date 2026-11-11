@@ -4,6 +4,30 @@
     {
       "usuario": "prefeituradecerroazul",
       "nome": "Prefeitura de Cerro Azul"
+    },
+    {
+      "usuario": "camaradecerroazul",
+      "nome": "Câmara de Cerro Azul"
+    },
+    {
+      "usuario": "prefeituradebocaiuvadosul",
+      "nome": "Prefeitura de Bocaiúva do Sul"
+    },
+    {
+      "usuario": "pref.almirantetamandare",
+      "nome": "Prefeitura de Almirante Tamandaré"
+    },
+    {
+      "usuario": "itaperucuonline",
+      "nome": "Itaperuçu Online"
+    },
+    {
+      "usuario": "jornalriobranco",
+      "nome": "Jornal Rio Branco"
+    },
+    {
+      "usuario": "jornalexpressopr",
+      "nome": "Jornal Expresso PR"
     }
   ],
   "ig_business_id": "17841447036866566"
