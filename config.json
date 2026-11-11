@@ -1,6 +1,6 @@
 {
   "nome": "Agente autônomo de notícias",
-  "modo": "ensaio",
+  "modo": "publicar",
   "portal": {
     "nome": "",
     "site": "https://valedoribeira.net.br",
