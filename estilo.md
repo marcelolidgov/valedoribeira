@@ -19,8 +19,10 @@ _(a definir: quantos parágrafos, se há intertítulos, tamanho típico)_
 - Em toda matéria publicada pelos ciclos: `instagram_post: true` e `facebook: true`.
 - Instagram: `legenda_instagram` recebe o primeiro parágrafo da matéria (pode ser resumido para caber em uma legenda).
 - Facebook: `facebook_texto` recebe uma introdução curta que leva o leitor à página da matéria, sem copiar parágrafos.
-- Foto para o Instagram em proporção 4:5 (ex.: 1080x1350). Recortar se a foto tiver outra proporção.
-- WhatsApp e grupos seguem desabilitados. `instagram_storie` segue desabilitado.
+- `instagram_storie: true` em toda matéria.
+- Foto para o feed do Instagram em proporção 4:5 (ex.: 1080x1350). Para o story, o ideal é 9:16 (1080x1920).
+- Foto sempre real (pessoas, obra, local, evento). Nunca card, banner ou arte genérica de capa de blog.
+- WhatsApp e grupos seguem desabilitados.
 
 ## Exemplos aprovados
 
