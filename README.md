@@ -21,7 +21,7 @@ As regras do agente estão em `CLAUDE.md`. Este arquivo explica como operar.
 ## Primeiros passos (antes do primeiro ciclo)
 
 1. Preencher `config.json` → `portal.nome`, `portal.site` e `categorias`. Com `portal.site` vazio, o agente recusa publicar.
-2. Definir as credenciais do painel no ambiente da sessão: `PORTAL_EMAIL` e `PORTAL_SENHA`
+2. Definir as credenciais do painel no ambiente da sessão: `VALEDORIBEIRA_EMAIL` e `VALEDORIBEIRA_SENHA`
    (o nome vem de `portal.env_email` e `portal.env_senha`; ajustar se o portal usar outros).
 3. Preencher `pautas.json`, `fontes.json` e `estilo.md`.
 4. Rodar um ensaio com uma matéria de teste e conferir o print em `materias/NN-form.png`:
