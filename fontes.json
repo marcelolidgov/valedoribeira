@@ -1,8 +1,21 @@
 {
   "_comentario": "Feeds RSS/Atom monitorados. 'nome' é o veículo que aparece em 'Com informações de'. Sites sem feed ficam para a busca na web (CLAUDE.md, passo 2).",
   "fontes": [
-    { "nome": "Rio Branco do Sul (blog local)", "feed": "https://riobrancodosul.com.br/feed/" },
-    { "nome": "GPC Notícias", "feed": "https://gpcnoticias.com.br/feed/" },
-    { "nome": "Itaperuçu (Prefeitura)", "feed": "https://itaperucu.pr.gov.br/feed/" }
+    {
+      "nome": "Rio Branco do Sul (blog local)",
+      "feed": "https://riobrancodosul.com.br/feed/"
+    },
+    {
+      "nome": "GPC Notícias",
+      "feed": "https://gpcnoticias.com.br/feed/"
+    },
+    {
+      "nome": "Itaperuçu (Prefeitura)",
+      "feed": "https://itaperucu.pr.gov.br/feed/"
+    },
+    {
+      "nome": "Agência Estadual de Notícias (Paraná)",
+      "feed": "https://www.parana.pr.gov.br/rss.xml"
+    }
   ]
 }
