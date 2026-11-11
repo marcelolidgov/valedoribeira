@@ -1,0 +1,31 @@
+{
+  "chapeu": "Obra viária",
+  "categoria": "Cidades",
+  "destaque": "Nenhum destaque",
+  "fonte": "Prefeitura de Colombo",
+  "link_original": "https://colombo.pr.gov.br",
+  "titulo": "Colombo assina ordem de serviço para pavimentar mais de 2 km no Morro Grande",
+  "subtitulo": "Obra de R$ 4,76 milhões, em parceria com o Governo do Paraná, integra ligação entre Colombo, Almirante Tamandaré e Rio Branco do Sul",
+  "texto": [
+    "Em Colombo, a gestão municipal deu início formal a um trecho viário de grande porte. Na terça-feira (3), o prefeito Helder Lazarotto autorizou, com a assinatura da ordem de serviço, o asfaltamento de um percurso com mais de dois quilômetros no Morro Grande.",
+    "O trecho fica na via conhecida como Antonio Gasparin, cujo nome oficial é Rua Antonio Fiorese. O investimento é de R$ 4,76 milhões, feito em parceria com o Governo do Paraná.",
+    "## Ligação regional",
+    "A intervenção é a continuação da Rua João Gusso e faz parte do eixo que conecta Colombo a Almirante Tamandaré e a Rio Branco do Sul.",
+    "## Melhorias previstas",
+    "Além do asfalto, a obra inclui escoamento de água, sinalização e luz nas vias. A meta é deixar o trânsito mais fluido e reforçar a segurança de quem vive, trabalha ou produz na região.",
+    "A cerimônia foi feita em meio a moradores da comunidade, que puderam acompanhar a assinatura no próprio bairro.",
+    "Com informações da Prefeitura de Colombo."
+  ],
+  "foto": {
+    "arquivo": "04-colombo-obra-viaria.jpg",
+    "credito": "Foto: Reprodução"
+  },
+  "redes": {
+    "whatsapp": false,
+    "instagram_post": true,
+    "legenda_instagram": "A Prefeitura de Colombo assinou a ordem de serviço para pavimentar mais de 2 km da Rua Antonio Fiorese, no Morro Grande. A obra de R$ 4,76 milhões liga Colombo, Almirante Tamandaré e Rio Branco do Sul. Leia a matéria completa no portal.",
+    "instagram_storie": true,
+    "facebook": true,
+    "facebook_texto": "Mais de 2 km de asfalto novo no Morro Grande, em Colombo, e uma nova ligação entre Almirante Tamandaré e Rio Branco do Sul. Veja os detalhes da obra no portal."
+  }
+}
