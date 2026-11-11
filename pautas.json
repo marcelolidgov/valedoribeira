@@ -100,6 +100,18 @@
         "site:gazetadopovo.com.br saúde Paraná",
         "site:gazetadopovo.com.br educação Paraná"
       ]
+    },
+    {
+      "veiculo": "Assembleia Legislativa do Paraná",
+      "site": "assembleia.pr.leg.br",
+      "prioridade": "alta",
+      "motivo": "Fonte oficial da política estadual. Sem feed RSS na página inicial; a pesquisa é feita por assunto.",
+      "buscas": [
+        "site:assembleia.pr.leg.br projeto de lei aprovado",
+        "site:assembleia.pr.leg.br obras Paraná",
+        "site:assembleia.pr.leg.br saúde educação Paraná",
+        "site:assembleia.pr.leg.br sessão plenário votação"
+      ]
     }
   ],
   "_comentario_busca_web": "Pesquisas na web por veículo, usadas quando o veículo não tem feed. Matéria de política com nome de pessoa ou dado eleitoral exige duas fontes ou fonte oficial, como no CLAUDE.md. Sempre citar o veículo em 'Com informações da ...'."
