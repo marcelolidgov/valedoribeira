@@ -10,10 +10,10 @@
     "horarios": [8, 12, 18],
     "plugins_id": {}
   },
-  "limite_diario": 3,
+  "limite_diario": 8,
   "max_candidatos": 20,
   "dias_sem_repetir": 7,
-  "min_palavras": 250,
+  "min_palavras": 100,
   "max_palavras": 900,
   "max_sobreposicao": 0.1,
   "categorias": [],

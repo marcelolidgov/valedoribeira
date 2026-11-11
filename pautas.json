@@ -1,4 +1,11 @@
 {
-  "_comentario": "Temas de interesse. Um candidato entra se o título ou o resumo contém alguma palavra de 'palavras' e nenhuma de 'excluir'. Preencher com o treino.",
-  "temas": []
+  "_comentario": "Temas de interesse. Um candidato entra se o título ou o resumo contém alguma palavra de 'palavras' e nenhuma de 'excluir'.",
+  "temas": [
+    { "nome": "Obras e infraestrutura", "palavras": ["obra", "obras", "pavimentação", "asfalto", "ordem de serviço", "ponte", "estrada", "rua", "saneamento", "água", "esgoto"], "excluir": ["show", "festa"] },
+    { "nome": "Saúde", "palavras": ["saúde", "posto de saúde", "UBS", "hospital", "vacinação", "vacina", "consulta"], "excluir": [] },
+    { "nome": "Educação", "palavras": ["escola", "educação", "creche", "aluno", "professor", "matrícula"], "excluir": [] },
+    { "nome": "Segurança", "palavras": ["segurança", "polícia", "guarda municipal", "prevenção"], "excluir": ["preso", "homicídio", "assassinato"] },
+    { "nome": "Câmara e gestão pública", "palavras": ["câmara municipal", "vereador", "prefeitura", "prefeito", "secretaria", "lei municipal", "decreto"], "excluir": [] },
+    { "nome": "Eventos e serviços", "palavras": ["evento", "feira", "inscrições", "atendimento", "serviço", "mutirão"], "excluir": [] }
+  ]
 }
