@@ -22,7 +22,7 @@ _(a definir: quantos parágrafos, se há intertítulos, tamanho típico)_
 - `instagram_storie: true` em toda matéria.
 - Foto para o feed do Instagram em proporção 4:5 (ex.: 1080x1350). Para o story, o ideal é 9:16 (1080x1920).
 - Foto sempre real (pessoas, obra, local, evento). Nunca card, banner ou arte genérica de capa de blog.
-- Sem foto real: usar a imagem padrão `assets/fallback-sem-foto-4x5.jpg` (logo do portal sobre fundo azul), com crédito "Imagem ilustrativa". Não deixar a matéria sem imagem.
+- Ordem de prioridade da imagem: (1) foto da própria matéria (obra, política, saúde, pessoas, local, evento), sempre a primeira a ser buscada; (2) somente se não houver nenhuma foto real, a imagem padrão `assets/fallback-sem-foto-4x5.jpg` (logo do portal sobre fundo azul), com crédito "Imagem ilustrativa". A imagem padrão nunca substitui uma foto disponível.
 - WhatsApp e grupos seguem desabilitados.
 
 ## Exemplos aprovados
