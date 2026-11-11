@@ -60,7 +60,7 @@ async function horariosOcupados(page) {
     const linhas = await page.$$eval('table tr', trs => trs.map(t => t.innerText));
     for (const t of linhas) {
       const r = t.match(/(\d{2})\/(\d{2})\/(\d{4}) (\d{2}):(\d{2})/);
-      if (r && !/Rascunho/.test(t)) ocup.add(`${r[3]}-${r[2]}-${r[1]} ${+r[4]}`);
+      if (r && !/Rascunho/.test(t)) ocup.add(`${r[3]}-${r[2]}-${r[1]} ${r[4]}:${r[5]}`);
     }
   }
   return ocup;
@@ -70,9 +70,11 @@ function proximoHorario(ocup) {
   const { data, min } = agoraSP();
   for (let d = 0; d < 7; d++) {
     const dia = maisDias(data, d);
-    for (const h of P.horarios) {
-      if (d === 0 && h * 60 <= min + 15) continue; // folga mínima de 15 min
-      if (!ocup.has(`${dia} ${h}`)) return { data: dia, hora: h, minuto: 0 };
+    for (const hm of P.horarios) { // formato "HH:MM", ex.: "06:30"
+      const [h, m] = hm.split(':').map(Number);
+      if (d === 0 && h * 60 + m <= min + 15) continue; // folga mínima de 15 min
+      const chave = `${dia} ${String(h).padStart(2, '0')}:${String(m).padStart(2, '0')}`;
+      if (!ocup.has(chave)) return { data: dia, hora: h, minuto: m };
     }
   }
   throw new Error('Nenhum horário livre nos próximos 7 dias');

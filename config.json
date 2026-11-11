@@ -7,7 +7,7 @@
     "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 NoticiasAgente/1.0",
     "env_email": "VALEDORIBEIRA_EMAIL",
     "env_senha": "VALEDORIBEIRA_SENHA",
-    "horarios": [8, 12, 18],
+    "horarios": ["06:30", "08:30", "10:30", "12:30", "14:30", "16:30", "18:30", "20:30"],
     "plugins_id": {}
   },
   "limite_diario": 8,
