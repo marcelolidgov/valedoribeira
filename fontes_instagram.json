@@ -28,6 +28,14 @@
     {
       "usuario": "jornalexpressopr",
       "nome": "Jornal Expresso PR"
+    },
+    {
+      "usuario": "tamandarenoticias",
+      "nome": "Tamandaré Notícias"
+    },
+    {
+      "usuario": "cristianocorreadaradio",
+      "nome": "Cristiano Corrêa (rádio)"
     }
   ],
   "ig_business_id": "17841447036866566"
