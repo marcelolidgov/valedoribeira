@@ -1,11 +1,106 @@
 {
   "_comentario": "Temas de interesse. Um candidato entra se o título ou o resumo contém alguma palavra de 'palavras' e nenhuma de 'excluir'.",
   "temas": [
-    { "nome": "Obras e infraestrutura", "palavras": ["obra", "obras", "pavimentação", "asfalto", "ordem de serviço", "ponte", "estrada", "rua", "saneamento", "água", "esgoto"], "excluir": ["show", "festa"] },
-    { "nome": "Saúde", "palavras": ["saúde", "posto de saúde", "UBS", "hospital", "vacinação", "vacina", "consulta"], "excluir": [] },
-    { "nome": "Educação", "palavras": ["escola", "educação", "creche", "aluno", "professor", "matrícula"], "excluir": [] },
-    { "nome": "Segurança", "palavras": ["segurança", "polícia", "guarda municipal", "prevenção"], "excluir": ["preso", "homicídio", "assassinato"] },
-    { "nome": "Câmara e gestão pública", "palavras": ["câmara municipal", "vereador", "prefeitura", "prefeito", "secretaria", "lei municipal", "decreto"], "excluir": [] },
-    { "nome": "Eventos e serviços", "palavras": ["evento", "feira", "inscrições", "atendimento", "serviço", "mutirão"], "excluir": [] }
-  ]
+    {
+      "nome": "Obras e infraestrutura",
+      "palavras": [
+        "obra",
+        "obras",
+        "pavimentação",
+        "asfalto",
+        "ordem de serviço",
+        "ponte",
+        "estrada",
+        "rua",
+        "saneamento",
+        "água",
+        "esgoto"
+      ],
+      "excluir": [
+        "show",
+        "festa"
+      ]
+    },
+    {
+      "nome": "Saúde",
+      "palavras": [
+        "saúde",
+        "posto de saúde",
+        "UBS",
+        "hospital",
+        "vacinação",
+        "vacina",
+        "consulta"
+      ],
+      "excluir": []
+    },
+    {
+      "nome": "Educação",
+      "palavras": [
+        "escola",
+        "educação",
+        "creche",
+        "aluno",
+        "professor",
+        "matrícula"
+      ],
+      "excluir": []
+    },
+    {
+      "nome": "Segurança",
+      "palavras": [
+        "segurança",
+        "polícia",
+        "guarda municipal",
+        "prevenção"
+      ],
+      "excluir": [
+        "preso",
+        "homicídio",
+        "assassinato"
+      ]
+    },
+    {
+      "nome": "Câmara e gestão pública",
+      "palavras": [
+        "câmara municipal",
+        "vereador",
+        "prefeitura",
+        "prefeito",
+        "secretaria",
+        "lei municipal",
+        "decreto"
+      ],
+      "excluir": []
+    },
+    {
+      "nome": "Eventos e serviços",
+      "palavras": [
+        "evento",
+        "feira",
+        "inscrições",
+        "atendimento",
+        "serviço",
+        "mutirão"
+      ],
+      "excluir": []
+    }
+  ],
+  "busca_web": [
+    {
+      "veiculo": "Gazeta do Povo",
+      "site": "gazetadopovo.com.br",
+      "prioridade": "alta",
+      "motivo": "Feed RSS bloqueado pelo site; a pesquisa é feita por assunto. Cobertura forte de política do Paraná e do Brasil.",
+      "buscas": [
+        "site:gazetadopovo.com.br política Paraná",
+        "site:gazetadopovo.com.br Assembleia Legislativa Paraná",
+        "site:gazetadopovo.com.br Câmara dos Deputados",
+        "site:gazetadopovo.com.br obras Paraná",
+        "site:gazetadopovo.com.br saúde Paraná",
+        "site:gazetadopovo.com.br educação Paraná"
+      ]
+    }
+  ],
+  "_comentario_busca_web": "Pesquisas na web por veículo, usadas quando o veículo não tem feed. Matéria de política com nome de pessoa ou dado eleitoral exige duas fontes ou fonte oficial, como no CLAUDE.md. Sempre citar o veículo em 'Com informações da ...'."
 }
