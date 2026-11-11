@@ -1,0 +1,31 @@
+{
+  "chapeu": "Saúde animal",
+  "categoria": "Cidades",
+  "destaque": "Nenhum destaque",
+  "fonte": "Prefeitura de Almirante Tamandaré",
+  "link_original": "https://www.instagram.com/reel/DfnES0aJflc/",
+  "titulo": "VetMóvel Paraná volta a Almirante Tamandaré com vacinação e atendimento gratuito para pets",
+  "subtitulo": "Atendimentos acontecem entre 17 e 21 de novembro, com agendamento antecipado obrigatório",
+  "texto": [
+    "O VetMóvel Paraná está de volta a Almirante Tamandaré. A unidade oferece atendimentos gratuitos para cães e gatos, com foco na saúde preventiva dos animais.",
+    "## Serviços",
+    "Os atendimentos incluem vacinação, vermifugação, aplicação de antipulgas e controle de carrapatos.",
+    "## Datas e locais",
+    "Nos dias 17 e 18 de novembro, o atendimento acontece na ASSEMAT, na Rua Antônio de Siqueira, 329, no Centro. Entre 19 e 21 de novembro, a unidade fica na Igreja Católica, na Rua Miguel Muraski, nº 2, no Recanto dos Papagaios.",
+    "## Inscrição",
+    "A inscrição e o agendamento precisam ser feitos com antecedência, pelo site da campanha. Os animais passam por avaliação prévia antes dos procedimentos.",
+    "Com informações da Prefeitura de Almirante Tamandaré."
+  ],
+  "foto": {
+    "arquivo": "../assets/fallback-sem-foto-4x5.jpg",
+    "credito": "Imagem ilustrativa"
+  },
+  "redes": {
+    "whatsapp": false,
+    "instagram_post": true,
+    "legenda_instagram": "O VetMóvel Paraná volta a Almirante Tamandaré com vacinação, vermifugação e antipulgas gratuitas, de 17 a 21 de novembro. Agendamento antecipado é obrigatório. Leia a matéria completa no portal.",
+    "instagram_storie": true,
+    "facebook": true,
+    "facebook_texto": "Seu pet precisa de vacina ou antipulgas? O VetMóvel Paraná está em Almirante Tamandaré com atendimento gratuito. Veja datas, locais e como agendar no portal."
+  }
+}

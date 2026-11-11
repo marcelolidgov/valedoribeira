@@ -1,0 +1,31 @@
+{
+  "chapeu": "Cultura",
+  "categoria": "Cidades",
+  "destaque": "Nenhum destaque",
+  "fonte": "Prefeitura de Rio Branco do Sul",
+  "link_original": "https://riobrancodosul.com.br/cultura-itinerante-vai-levar-musica-teatro-e-oficinas-gratuitas-para-comunidades-de-rio-branco-do-sul/",
+  "titulo": "Cultura itinerante leva música, teatro e oficinas gratuitas a comunidades de Rio Branco do Sul",
+  "subtitulo": "Seis localidades recebem atividades entre 14 de novembro e 29 de novembro, das 13h às 18h",
+  "texto": [
+    "A Secretaria Municipal de Cultura de Rio Branco do Sul vai levar atividades culturais gratuitas a comunidades do município, com recursos da Política Nacional Aldir Blanc (PNAB). A proposta é chegar às famílias das áreas mais afastadas do centro.",
+    "## Calendário",
+    "A primeira parada é no Florestal, em 14 de novembro. Depois, a programação passa por Ribeirinha, em 15 de novembro, Boqueirão da Serra, em 21 de novembro, Mina de Ferro, em 22 de novembro, Nodari II, em 28 de novembro, e Tacaniça dos Falcões, em 29 de novembro.",
+    "## O que tem em cada dia",
+    "As atividades acontecem sempre das 13h às 18h. Há apresentações musicais, o espetáculo teatral da Cia. do Abração, oficinas interativas e o Palco Aberto, espaço em que os próprios moradores podem participar.",
+    "Feiras comunitárias também estarão presentes, com produtores, artesãos e pequenos empreendedores locais. No total, o projeto reúne 12 shows musicais, seis peças de teatro, seis oficinas e seis momentos de Palco Aberto.",
+    "Todas as atividades são gratuitas e abertas ao público.",
+    "Com informações da Prefeitura de Rio Branco do Sul."
+  ],
+  "foto": {
+    "arquivo": "06-cultura-itinerante-rbs.jpg",
+    "credito": "Foto: Reprodução"
+  },
+  "redes": {
+    "whatsapp": false,
+    "instagram_post": true,
+    "legenda_instagram": "A cultura chega às comunidades de Rio Branco do Sul: música, teatro e oficinas gratuitas, de 14 a 29 de novembro. Veja o calendário completo no portal.",
+    "instagram_storie": true,
+    "facebook": true,
+    "facebook_texto": "Música, teatro e oficinas gratuitas em seis comunidades de Rio Branco do Sul, entre 14 e 29 de novembro. Confira as datas e os locais no portal."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "chapeu": "Atendimento à mulher",
+  "categoria": "Cidades",
+  "destaque": "Nenhum destaque",
+  "fonte": "Bem Paraná",
+  "link_original": "https://riobrancodosul.com.br/colombo-promove-dia-gratuito-de-beleza-e-orientacao-juridica-para-mulheres/",
+  "titulo": "Colombo promove dia gratuito de beleza e orientação jurídica para mulheres",
+  "subtitulo": "Ação em parceria com a OAB Paraná tem 20 vagas, transporte gratuito e acontece em 17 de novembro",
+  "texto": [
+    "Em 17 de novembro, a cidade de Colombo abre um dia voltado a autocuidado e direitos das mulheres. O encontro reúne tratamentos de bem-estar, terapias complementares e uma roda de orientação jurídica, sem custo para as participantes.",
+    "A proposta nasce de uma parceria entre a administração municipal e o OAB PR Cidadania, programa da seccional paranaense da Ordem dos Advogados. A agenda do dia inclui cuidados com os cabelos e atividades de bem-estar, além de orientações sobre direitos das mulheres.",
+    "## Vagas e deslocamento",
+    "São 20 lugares disponíveis, e a atividade acontece na sede da OAB, em Curitiba. O transporte gratuito sai e volta à Secretaria da Mulher, Família e Direitos Humanos de Colombo, na Rua Roberto Lambach Falavinha.",
+    "Quem quiser participar precisa se inscrever antes, pelo contato indicado na divulgação original. Como a quantidade de vagas é pequena, a organização pede que a pessoa esteja livre o dia inteiro.",
+    "Com informações do Bem Paraná."
+  ],
+  "foto": {
+    "arquivo": "../assets/fallback-sem-foto-4x5.jpg",
+    "credito": "Imagem ilustrativa"
+  },
+  "redes": {
+    "whatsapp": false,
+    "instagram_post": true,
+    "legenda_instagram": "Colombo promove dia gratuito de beleza e orientação jurídica para mulheres, em 17 de novembro, com 20 vagas e transporte gratuito. Leia a matéria completa no portal.",
+    "instagram_storie": true,
+    "facebook": true,
+    "facebook_texto": "Vagas limitadas para um dia gratuito de cuidados pessoais e orientação jurídica para mulheres em Colombo. Veja como participar no portal."
+  }
+}
