@@ -1,0 +1,30 @@
+{
+  "chapeu": "Polícia Federal",
+  "categoria": "Política",
+  "destaque": "Nenhum destaque",
+  "fonte": "Gazeta do Povo",
+  "link_original": "https://mrf.lu/2YW7p",
+  "titulo": "PF abre inquérito sobre suposto financiamento estrangeiro à campanha de Flávio Bolsonaro",
+  "subtitulo": "Apuração foi determinada pelo ministro Flávio Dino, do STF, e investiga possível interferência estrangeira no pleito",
+  "texto": [
+    "A Polícia Federal iniciou uma apuração sobre um possível financiamento vindo do exterior ao projeto eleitoral do senador Flávio Bolsonaro (PL-RJ). O caminho foi aberto por decisão do ministro Flávio Dino, do Supremo Tribunal Federal, de 27 de outubro, que também trata de uma possível ação dos Estados Unidos no pleito.",
+    "De acordo com a reportagem, os agentes analisam o papel de plataformas digitais e se houve repasse de dinheiro da Rockbridge Network, entidade conservadora dos EUA, intermediado pelos empresários Tallis Gomes e Pedro Sang. Até o momento, nada foi concluído.",
+    "## Outros pedidos ao STF",
+    "Tanto a campanha de Lula (PT) quanto a de Renan Santos (Missão) acionaram o Supremo sobre o caso.",
+    "## Ordem do ministro",
+    "Além disso, Dino mandou a PF apurar uma eventual relação entre apoio eleitoral e interesses econômicos de estrangeiros em áreas como terras raras e minerais críticos. Para o ministro, o cenário reforça a suspeita de interferência de outros países no processo eleitoral.",
+    "Com informações da Gazeta do Povo."
+  ],
+  "foto": {
+    "arquivo": "10-pf-inquerito-campanha.jpg",
+    "credito": "Foto: Gazeta do Povo"
+  },
+  "redes": {
+    "whatsapp": true,
+    "instagram_post": true,
+    "legenda_instagram": "A PF abriu inquérito para apurar suspeitas de financiamento estrangeiro à campanha de Flávio Bolsonaro, determinado pelo ministro Flávio Dino (STF). Leia a matéria completa no portal.",
+    "instagram_storie": true,
+    "facebook": true,
+    "facebook_texto": "A Polícia Federal investiga suspeitas de financiamento estrangeiro à campanha presidencial de Flávio Bolsonaro. Entenda o caso e o que pediu o STF no portal."
+  }
+}
