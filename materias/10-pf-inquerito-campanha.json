@@ -26,5 +26,10 @@
     "instagram_storie": true,
     "facebook": true,
     "facebook_texto": "A Polícia Federal investiga suspeitas de financiamento estrangeiro à campanha presidencial de Flávio Bolsonaro. Entenda o caso e o que pediu o STF no portal."
+  },
+  "agendamento": {
+    "data": "2026-11-11",
+    "hora": 17,
+    "minuto": 0
   }
 }
