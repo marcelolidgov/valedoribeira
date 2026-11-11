@@ -13,6 +13,16 @@ const args = process.argv.slice(2);
 const iHoras = args.indexOf('--horas');
 const horas = iHoras >= 0 ? Number(args[iHoras + 1]) : 48;
 
+// Filtro determinístico (primeira triagem). A leitura final, de notícia ou publicidade, é feita pelo agente.
+const FILTRO = lerJSON('fontes_instagram.json', {}).filtro || {};
+const norm = t => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+function passaFiltro(caption) {
+  const t = norm(caption);
+  if ((FILTRO.publicidade || []).some(p => t.includes(norm(p)))) return false;
+  if ((FILTRO.sensacionalismo || []).some(p => t.includes(norm(p)))) return false;
+  return (FILTRO.temas || []).some(p => t.includes(norm(p)));
+}
+
 // Usa curl (como candidatos.js), porque o fetch do Node não passa pelo proxy da rede.
 function chamar(params) {
   const url = new URL(API + '/' + IG_BUSINESS_ID);
@@ -43,6 +53,7 @@ function chamar(params) {
       const midias = (j.business_discovery && j.business_discovery.media && j.business_discovery.media.data) || [];
       for (const m of midias) {
         if (Date.parse(m.timestamp) < corte || !m.caption) continue;
+        if (!passaFiltro(m.caption)) continue;
         const linhas = m.caption.split('\n').map(s => s.trim()).filter(Boolean);
         lista.push({
           veiculo: c.nome,
